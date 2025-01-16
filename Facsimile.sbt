@@ -48,7 +48,7 @@ import xerial.sbt.Sonatype.{sonatypeCentralHost, sonatypeSettings}
 val CatsVersion = "2.10.0"
 val IzumiReflectVersion = "2.3.10"
 val ParboiledVersion = "2.5.1"
-val PekkoVersion = "1.0.2"
+val PekkoVersion = "1.0.3"
 val PrimaryScalaVersion = "3.3.4"
 val ScalaCheckVersion = "1-18" // Formatted this way due to usage.
 val ScalaTestVersion = "3.2.19"
