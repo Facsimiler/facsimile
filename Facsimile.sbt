@@ -46,7 +46,7 @@ import xerial.sbt.Sonatype.{sonatypeCentralHost, sonatypeSettings}
 //
 // Keep all compiler and library version numbers here, in alphabetical order, for easy maintenance.
 val CatsVersion = "2.13.0"
-val IzumiReflectVersion = "3.0.2"
+val IzumiReflectVersion = "3.0.4"
 val PekkoVersion = "1.0.2"
 val PrimaryScalaVersion = "3.3.6"
 val ScalaCheckVersion = "1-18" // Formatted this way due to usage.
